@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MyLib)(type KiCad)(uri "$(KIPRJMOD)/MyLib.pretty")(options "")(descr ""))
+  (lib (name "Board Files")(type KiCad)(uri "C:/Users/Digital-Sqrt/Documents/Git_Hub/Little driver 2/Board Files")(options "")(descr ""))
+  (lib (name OSHWA-ART)(type KiCad)(uri C:/Users/Digital-Sqrt/Documents/Git_Hub/OSHWA-ART)(options "")(descr ""))
+)
